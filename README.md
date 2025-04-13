@@ -6,7 +6,7 @@ Project: Recipes
 This is a basic recipe website containing:
 1. Main index page with links to recipes
 
-Skills required (* indicates optional for assignment. Full details at the end of page):
+Skills required (* indicates optional for assignment. Full details at end of page):
 1. Basic Git:
     - Create a repository
     - Locate and share SSH key
@@ -71,3 +71,46 @@ Iteration 4: add more recipes
 Sources
 1. Assignment: https://www.theodinproject.com/lessons/foundations-recipes
 2. Chicken wing recipe and images: https://www.allrecipes.com/recipe/230873/amazing-and-easy-chicken-wings/
+3. Curry recipe and images: https://www.allrecipes.com/recipe/46822/indian-chicken-curry-ii/
+4. Mushroom soup recipe and images: https://www.allrecipes.com/recipe/235589/chef-johns-creamy-mushroom-soup/
+
+
+Skills required:
+1. Basic Git:
+    - Create a repository (via Github)
+    - Locate and share SSH key (code)
+2. Basic command line to:
+    - Create a directory (mkdir)
+    - Use Git workflow
+		    - Clone repository (git clone SSH key)
+		    - Add file to staging area (git add fileName.extension)
+				    - all files with changes (git add .)
+		    - Commit and add comments (git commit -m "")
+		    - Push committed files in staging area to GitHub main branch (git push)
+		    - Check status (git status)
+		    - Check commit history (git log)
+    - Navigate to directory (cd directoryName)
+        - to parent directory (cd ..)
+        - to home (cd ~)
+    - Create a file (touch Filename.extension)
+    - Open in VS Code (code .)
+3. Basic HTML to:
+    - Add boilerplate (!)
+    - Add block elements
+        - header (<h1></h1>)
+        - paragraphs (<p></p>)
+        - lists
+            - unordered (<ul><li></li></ul>)
+            - ordered  (<ol><li></li></ol>)
+    - Add inline elements:
+        - comments (<!-- --> or cmd + /)
+        - links (<a href=""></a>)
+            - for relative navigation (../)
+            - in new tab (target="_blank")
+            - with added security & performance (rel="noopener")
+                - for extra privacy ("noreferrer")
+        - images (<img src="URL">)
+            - hosted locally in parent directory (../images/imagename.fileextension instead of URL)
+            - with alternative text (alt="")
+            - with size attributes (height="" width="")
+        - italics (<i></i>)
