@@ -22,6 +22,8 @@ Skills required (* indicates optional for assignment. Full details at the end of
         - header
     - Add inline elements:
         - * comments
+        - links
+            - for relative navigation
 
 Assignment (Full instructions: https://www.theodinproject.com/lessons/foundations-recipes)
 
