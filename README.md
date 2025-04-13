@@ -21,7 +21,7 @@ Skills required (* indicates optional for assignment. Full details at end of pag
         - Check commit history
     - Navigate directories
     - Create a file
-    - * Open VS Code
+    - (*) Open VS Code
 3. Basic HTML to:
     - Add boilerplate
     - Add block elements
@@ -34,14 +34,14 @@ Skills required (* indicates optional for assignment. Full details at end of pag
         - * comments
         - links
             - for relative navigation
-            - * in new tab
-            - * with added security & performance
-                - * for extra privacy
+            - (*) in new tab
+            - (*) with added security & performance
+                - (*) for extra privacy
         - images
-            - * hosted locally in parent directory
-            - * with alternative text (not listed as requirement for assignment but best practice)
-            - * with size attributes
-        - * italics
+            - (*) hosted locally in parent directory
+            - (*) with alternative text (not listed as requirement for assignment but best practice)
+            - (*) with size attributes
+        - (*) italics
 
 Assignment (Full instructions: https://www.theodinproject.com/lessons/foundations-recipes)
 
@@ -84,7 +84,7 @@ Skills required:
     - Use Git workflow
 		    - Clone repository (git clone SSH key)
 		    - Add file to staging area (git add fileName.extension)
-				    - all files with changes (git add .)
+                - all files with changes (git add .)
 		    - Commit and add comments (git commit -m "")
 		    - Push committed files in staging area to GitHub main branch (git push)
 		    - Check status (git status)
@@ -97,20 +97,20 @@ Skills required:
 3. Basic HTML to:
     - Add boilerplate (!)
     - Add block elements
-        - header (<h1></h1>)
-        - paragraphs (<p></p>)
+        - header (h1)
+        - paragraphs (p)
         - lists
-            - unordered (<ul><li></li></ul>)
-            - ordered  (<ol><li></li></ol>)
+            - unordered (ul li)
+            - ordered  (ol li)
     - Add inline elements:
-        - comments (<!-- --> or cmd + /)
-        - links (<a href=""></a>)
+        - comments (cmd + /)
+        - links (a href="")
             - for relative navigation (../)
             - in new tab (target="_blank")
             - with added security & performance (rel="noopener")
                 - for extra privacy ("noreferrer")
-        - images (<img src="URL">)
+        - images (img src="URL")
             - hosted locally in parent directory (../images/imagename.fileextension instead of URL)
             - with alternative text (alt="")
             - with size attributes (height="" width="")
-        - italics (<i></i>)
+        - italics (i)
