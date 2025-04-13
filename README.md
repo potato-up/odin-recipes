@@ -12,7 +12,13 @@ Skills required (* indicates optional for assignment. Full details at the end of
     - Locate and share SSH key
 2. Basic command line to:
     - Create a directory
-    - Clone repository
+    - Use Git workflow
+        - Clone repository
+        - Add file to staging area
+        - Commit and add comments
+        - Push files to GitHub main branch
+        - Check status
+        - Check commit history
     - Navigate directories
     - Create a file
     - * Open VS Code
@@ -20,10 +26,22 @@ Skills required (* indicates optional for assignment. Full details at the end of
     - Add boilerplate
     - Add block elements
         - header
+        - paragraphs
+        - lists
+            - unordered
+            - ordered
     - Add inline elements:
         - * comments
         - links
             - for relative navigation
+            - * in new tab
+            - * with added security & performance
+                - * for extra privacy
+        - images
+            - * hosted locally in parent directory
+            - * with alternative text (not listed as requirement for assignment but best practice)
+            - * with size attributes
+        - * italics
 
 Assignment (Full instructions: https://www.theodinproject.com/lessons/foundations-recipes)
 
@@ -52,3 +70,4 @@ Iteration 4: add more recipes
 
 Sources
 1. Assignment: https://www.theodinproject.com/lessons/foundations-recipes
+2. Chicken wing recipe and images: https://www.allrecipes.com/recipe/230873/amazing-and-easy-chicken-wings/
